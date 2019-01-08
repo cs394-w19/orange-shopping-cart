@@ -15,6 +15,7 @@ class App extends Component {
           <p>Anna</p>
           <p>Bennett</p>
           <p>Arthur</p>
+          <p>Elizabeth</p>
           <Shelf />
         </main>
         <FloatCart />
