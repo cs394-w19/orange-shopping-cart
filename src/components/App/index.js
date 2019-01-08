@@ -11,8 +11,9 @@ class App extends Component {
         <GithubCorner />
         <main>
           <p>Finley</p>
-          <p> Christian </p>
+          <p>Christian </p>
           <p>Anna</p>
+          <p>Bennett</p>
           <Shelf />
         </main>
         <FloatCart />
