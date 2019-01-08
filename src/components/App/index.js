@@ -12,6 +12,7 @@ class App extends Component {
         <main>
           <p>Finley</p>
           <p> Christian </p>
+          <p>Anna</p>
           <Shelf />
         </main>
         <FloatCart />
