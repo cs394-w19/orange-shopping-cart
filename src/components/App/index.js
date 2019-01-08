@@ -10,6 +10,7 @@ class App extends Component {
       <div className="App">
         <GithubCorner />
         <main>
+          <p>Finley</p>
           <Shelf />
         </main>
         <FloatCart />
